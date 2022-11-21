@@ -7,7 +7,7 @@ description: "A Website About Everything You Care About."
 theme: 'congo'
 
 defaultContentLanguage: en
-enableRobotsTXT: true
+enableRobotsTXT: false
 paginate: 10
 summaryLength: 0
 outputs:
