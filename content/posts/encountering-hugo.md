@@ -7,6 +7,9 @@ Well I can't say I'm thrilled about the tight coupling between themes, configs,
 and content, but it seemed pretty easy to onboard so let's see what happens when
 we push.
 
+NB: left off at [#Directory Structure](https://jpanther.github.io/congo/docs/getting-started/#directory-structure)
+in the theme docs.
+
 ---
 
 So far this is coming down to:
