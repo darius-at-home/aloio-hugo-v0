@@ -70,7 +70,9 @@ doesn't have subscript and superscript tho.  And no site/category nav by default
 
 ---
 
-<img alt="Big Thumbs Up" src="/images/site/thumbs-up-25607_960_720.png" width="180" height="240" />
+<img alt="Big Thumbs Up"
+     src="{{< siteurl >}}images/site/thumbs-up-25607_960_720.png"
+     width="180" height="240" />
 
 So I'm trying Hugo out because I got a little frustrated with the docs for Pelican and:
 
