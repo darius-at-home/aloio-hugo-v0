@@ -1,0 +1,19 @@
+baseURL: 'http://aloio.net/'
+languageCode: 'en-us'
+
+title: 'A Life Of Its Own'
+description: "A Website About Everything You Care About."
+
+theme: 'congo'
+
+defaultContentLanguage: en
+enableRobotsTXT: true
+paginate: 10
+summaryLength: 0
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# dateFormat: "2006-01-01"
