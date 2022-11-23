@@ -29,7 +29,7 @@ article:
   showHeadingAnchors: true
   showPagination: true
   invertPagination: false
-  showReadingTime: true
+  showReadingTime: false
   showTableOfContents: false
   showTaxonomies: false
   showWordCount: false
