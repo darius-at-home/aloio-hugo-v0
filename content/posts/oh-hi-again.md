@@ -3,6 +3,9 @@ title: "Oh Hi Again"
 date: 2023-02-19T18:15:13-08:00
 summary: Once you get out of the habit of writing
          regularly, it's hard to start back up.
+tags:
+    - adhd
+    - metablogging
 ---
 
 ## Welp

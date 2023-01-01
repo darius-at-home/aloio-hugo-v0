@@ -1,6 +1,7 @@
 ---
 title: "Encountering Hugo"
 date: 2022-11-20T14:32:04-08:00
+tags: metablogging
 ---
 
 Well I can't say I'm thrilled about the tight coupling between themes, configs,

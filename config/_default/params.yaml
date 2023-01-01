@@ -31,7 +31,7 @@ article:
   invertPagination: false
   showReadingTime: false
   showTableOfContents: false
-  showTaxonomies: false
+  showTaxonomies: true
   showWordCount: false
   showComments: false
 
