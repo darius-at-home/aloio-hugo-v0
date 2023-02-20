@@ -1,0 +1,32 @@
+abbr {
+    text-decoration-line: underline overline;
+    text-decoration-style: dotted;
+    text-decoration-color: gray;
+    position: relative;
+}
+
+/* Tooltip box */
+abbr:before {
+    content: attr(data-title);
+    position: absolute;
+    width: 12em;
+    background-color: #facc15;
+    color: #000000;
+    text-align: center;
+    padding: 10px;
+    line-height: 1.2;
+    border-radius: 6px;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity .6s;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -60px;
+    font-size: 0.75em;
+    visibility: hidden;
+}
+
+abbr:hover:before {
+    opacity: 1;
+    visibility: visible;
+}

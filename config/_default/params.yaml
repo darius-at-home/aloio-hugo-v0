@@ -20,7 +20,7 @@ homepage:
 
 article:
   showDate: true
-  showDateUpdated: false
+  showDateUpdated: true
   showAuthor: true
   showBreadcrumbs: false
   showDraftLabel: true
@@ -37,7 +37,7 @@ article:
 
 list:
   showBreadcrumbs: false
-  showSummary: false
+  showSummary: true
   showTableOfContents: false
   showTaxonomies: false
   groupByYear: true
