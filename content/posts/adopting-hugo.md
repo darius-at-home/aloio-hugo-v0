@@ -1,6 +1,7 @@
 ---
 title: "Adopting Hugo"
 date: 2022-11-22T17:53:24-08:00
+tags: metablogging
 ---
 
 {{< figure src="/images/site/thumbs-up-25607_960_720.png"
