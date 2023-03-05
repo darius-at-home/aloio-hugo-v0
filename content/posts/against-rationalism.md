@@ -1,8 +1,7 @@
 ---
 title: "Against Rationalism"
 date: 2023-03-04T08:55:54-08:00
-summary: Intro for some later-on houghts about cognition and the evolution of same.
-draft: true
+summary: Intro for some later-on thoughts about cognition and the evolution of same.
 tags:
     - against-rationalism
     - metablogging
