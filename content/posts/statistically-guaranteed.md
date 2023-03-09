@@ -27,9 +27,9 @@ associated with each proposition.
 propositions?
 
 **Ralph:** Oh that's easy, you just make some observations, use those to form a
-theory, and use the theory to generate your propositions.
+theory, and use the theory to generate an initial set of propositions.
 
-**Alice:** ...
+**Alice:** Hmm...
 
 <!-- end content -->
 
