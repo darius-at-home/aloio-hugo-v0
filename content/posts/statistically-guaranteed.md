@@ -1,7 +1,6 @@
 ---
 title: "Statistically Guaranteed"
 date: 2023-03-07T08:41:01-08:00
-draft: true
 summary: Waiting for mom to wake up, listening to Move Fast by Galactic
 tags: [against-rationalism]
 ---
