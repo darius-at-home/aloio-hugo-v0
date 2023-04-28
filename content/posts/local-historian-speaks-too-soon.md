@@ -19,6 +19,11 @@ As I and others have said elsewhere, wait till we find out who paid off
 his gambling debts.  It may take a while, but it's hard to imagine
 they'll be able to keep it a secret indefinitely.
 
+Update: [Oh yeah, right, right, Roberts too, also][roberts-ethics].
+
 
 [guardian-kavanaugh-story]:
     https://www.theguardian.com/us-news/2023/apr/28/brett-kavanaugh-investigation-omissions-senate-sexual-assault-claims
+
+[roberts-ethics]:
+    https://abcnews.go.com/Politics/colleague-supreme-court-chief-justices-wife-makes-ethics/story?id=96804182
