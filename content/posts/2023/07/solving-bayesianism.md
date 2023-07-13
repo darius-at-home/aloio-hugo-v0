@@ -14,11 +14,12 @@ collaborated with world-famous "Shit Nobody Cares About Enthusiast"
 [tyrant lizard prince][rex-twitter] to make the exact same ~~joke~~
 [extremely serious][turtles] observation.
 
-![Screenshot of two tweets. First, Liam Bright says "Solving
+[![Screenshot of two tweets. First, Liam Bright says "Solving
 Bayesianism by just using the correct priors." Then tyrant lizard prince
 responds "solving bayesianism by using the initial conditions of the
-universe as my prior."](/images/site/2023/07/Liam-Bright-Bayesianism.png)
+universe as my prior."](/images/site/2023/07/Liam-Bright-Bayesianism.png)][tweets]
 
 [liam-twitter]: https://twitter.com/lastpositivist
 [rex-twitter]: https://twitter.com/rex_the_reptile
 [turtles]: https://en.wikipedia.org/wiki/Turtles_all_the_way_down
+[tweets]: https://twitter.com/rex_the_reptile/status/1679063445944274950
