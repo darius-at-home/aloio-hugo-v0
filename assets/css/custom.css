@@ -1,4 +1,4 @@
-abbr {
+abbr, abbr.special {
     text-decoration-line: underline overline;
     text-decoration-style: dotted;
     text-decoration-color: gray;
@@ -6,7 +6,7 @@ abbr {
 }
 
 /* Tooltip box */
-abbr:before {
+abbr.special:before {
     content: attr(data-title);
     position: absolute;
     width: 12em;
@@ -26,7 +26,7 @@ abbr:before {
     visibility: hidden;
 }
 
-abbr:hover:before {
+abbr.special:hover:before {
     opacity: 1;
     visibility: visible;
 }

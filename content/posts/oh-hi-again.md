@@ -13,7 +13,7 @@ tags:
 I really did have the best of intentions.  And to be fair I do have a
 bunch of half-baked drafts laying around here and there.
 
-But in classic <abbr data-title="Attention Deficit Hyperactivity
+But in classic <abbr class="special" data-title="Attention Deficit Hyperactivity
 Disorder">ADHD</abbr> fashion this post is because I wanted to try out
 css-based &lt;abbr&gt; handling (in this case stolen shamelessly from
 [markodenic](https://markodenic.com/css-tips/)) and I figured what the
