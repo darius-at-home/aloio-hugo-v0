@@ -48,7 +48,13 @@ gonna be very different from how things were before territory.
 
 Fasten your seatbelts.
 
+**UPDATE 2023-07-18** Oh no! Disobedience has infected the [SALT caucus][centrists].
+Given that I want Dems to sweep the trifecta in 2024 no matter how useless and awful
+they are, I guess I should be cheering on whatever internecine warfare the GOP is
+willing to engage in. This is gonna lead to some real shit-ola policy though.
+
 [NDAA-article]: https://www.cnn.com/2023/07/14/politics/house-ndaa-vote-amendments/index.html
+[centrists]: https://www.politico.com/news/2023/07/17/gop-tax-plan-problems-00106436
 
 [^10]: As if my life depended on it, so to speak.  Because, well... you
     know...
