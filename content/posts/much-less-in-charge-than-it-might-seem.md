@@ -59,4 +59,4 @@ kinds of "Slow AIs" that we seem to have accepted as our collective overlords.
 
 [geepaw-hill]: https://fosstodon.org/@GeePawHill@mastodon.social/109969351414578622
 [emily-bender]: https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html
-[erik-hoel]: (https://erikhoel.substack.com/p/how-to-navigate-the-ai-apocalypse)
+[erik-hoel]: https://erikhoel.substack.com/p/how-to-navigate-the-ai-apocalypse
